@@ -5,7 +5,7 @@ It is a telegram bot that gets a fisrt picture (content picture) and second pict
 # Quick demo
 
 <div id="header" align="left">
-  <img src="https://github.com/LuLim14/StyleTransferBot/blob/main/presentwork_gifk.gif" width="300"/>
+  <img src="https://github.com/LuLim14/StyleTransferBot/blob/main/presentwork_gifk.gif" width="500"/>
 </div>
 
 # Features
