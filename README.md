@@ -12,7 +12,7 @@ It is a telegram bot that gets a fisrt picture (content picture) and second pict
 
 # Features
   + Telegram functional:
-     ++ pyTelegramBotAPI
+     - pyTelegramBotAPI
 
 # Quick start
 The the easiest way:
