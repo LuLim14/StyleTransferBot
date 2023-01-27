@@ -11,6 +11,8 @@ It is a telegram bot that gets a fisrt picture (content picture) and second pict
 + You can test my bot [here](https://t.me/StyleTranferBot), but for today you can use only if i will launch it locally
 
 # Features
+  + Telegram functional:
+     ++ pyTelegramBotAPI
 
 # Quick start
 The the easiest way:
