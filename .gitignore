@@ -1,6 +1,6 @@
 touch .gitignore
 
-
+access.log presentwork_gifk.gif
 
 git add .gitignore
 git commit -m 'update gitignore'
