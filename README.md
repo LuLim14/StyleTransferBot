@@ -13,3 +13,7 @@ It is a telegram bot that gets a fisrt picture (content picture) and second pict
 # Features
 
 # Quick start
+The the easiest way:
+  + Get a token for your bot [here](https://t.me/BotFather)
+  + Download .ipynb notebook
+  + Insert your token into the variable TOKEN in notebook  
