@@ -25,6 +25,11 @@ It is a telegram bot that gets a fisrt picture (content picture) and second pict
   + Telegram functional:
      - pyTelegramBotAPI
   
+# What features are in progress?
+  + StyleGAN as model
+  + Docker
+  + Asynchronicity
+
 
 # Quick start
 The the easiest way:
