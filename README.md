@@ -6,4 +6,4 @@ It is a telegram bot that gets a fisrt picture (content picture) and second pict
 
 # Features
 
-# Quick Start
+# Quick start
