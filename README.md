@@ -1,6 +1,6 @@
 # StyleTransferBot
 
-It is a telegram bot that gets a fisrt picture (content picture) and second picture (style picture) and transfer the style from first to second.
+It is a telegram bot that gets a fisrt picture (content picture) and second picture (style picture) and transfer the style from second to first.
 
 # Quick demo
 
@@ -13,6 +13,17 @@ It is a telegram bot that gets a fisrt picture (content picture) and second pict
 # Features
   + Telegram functional:
      - pyTelegramBotAPI
+  +  Libraries:
+     - PyTorch
+     - torchvision
+     - PIL
+  + Models:
+     - Pre-trained VGG19 
+  + Optimizer:
+     - LBFGS
+  + Losses:
+     - StyleLoss
+     - ContentLoss
 
 # Quick start
 The the easiest way:
