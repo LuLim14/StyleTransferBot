@@ -8,7 +8,7 @@ It is a telegram bot that gets a fisrt picture (content picture) and second pict
   <img src="https://github.com/LuLim14/StyleTransferBot/blob/main/promo/presentwork_gifk.gif" width="500"/>
 </div>
 
-You can test my bot [here](https://t.me/StyleTranferBot), but for today you can use only if i will launch it locally
+[x] You can test my bot [here](https://t.me/StyleTranferBot), but for today you can use only if i will launch it locally
 
 # Features
 
